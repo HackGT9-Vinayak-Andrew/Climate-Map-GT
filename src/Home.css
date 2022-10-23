@@ -1,0 +1,99 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#Top
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+#buttons
+{
+    text-align: center
+
+}
+
+#button1
+{
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    width: 200px;
+    height: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#button1:hover
+{
+    color: white;
+    background-color: dodgerblue;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#button2
+{
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    width: 200px;
+    height: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+#button2:hover
+{
+    color: white;
+    background-color: indianred;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+
+#divider
+{
+    width: 400px;
+    display: inline-block;
+}
+
+#divider3
+{
+    width: 50px;
+    display: inline-block;
+}
+
+#divider4
+{
+    width: 240px;
+    display: inline-block;
+}
+
+
+#divider2
+{
+    width: 200px;
+    display: inline-block;
+}
+
+#ballot
+{
+    background: url('./ballot-box.png');
+    width: 20px;
+    height: 20px
+
+}
+
+#Check
+{
+    background: url('./yellow-checkmark.png');
+    width: 20px;
+    height: 20px
+}
+
+#Legend
+{
+    text-align: center;
+
+
+}
